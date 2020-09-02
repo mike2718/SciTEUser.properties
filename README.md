@@ -1,0 +1,1 @@
+# SciTEUser.properties
